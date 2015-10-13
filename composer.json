@@ -1,0 +1,20 @@
+{
+    "name": "pyntax/cache",
+    "description": "Cache component of the Pyntax Framework",
+    "require": {
+        "zendframework/zend-cache": "^2.5",
+        "pyntax/config": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "Pyntax\\": "src/Pyntax/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sahil Sharma",
+            "email": "SahilDude89ss@gmail.com"
+        }
+    ]
+}
