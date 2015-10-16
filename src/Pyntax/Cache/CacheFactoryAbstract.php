@@ -23,13 +23,12 @@
  */
 
 namespace Pyntax\Cache;
-use Pyntax\Config\ConfigAwareInterface;
 
 /**
  * Class CacheFactoryAbstract
  * @package Pyntax\Cache
  */
-abstract class CacheFactoryAbstract implements CacheFactoryInterface, ConfigAwareInterface
+abstract class CacheFactoryAbstract implements CacheFactoryInterface
 {
     protected $_cache_manager = null;
 
