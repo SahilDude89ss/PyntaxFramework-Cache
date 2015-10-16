@@ -13,12 +13,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/SahilDude89ss/PyntaxFramework-Config.git",
-                "reference": "da9a6acd24229b2e7e4086b0b06263ec536adf33"
+                "reference": "1dfac09d4682ab49317922d16a030b61c0ab71d7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/SahilDude89ss/PyntaxFramework-Config/zipball/da9a6acd24229b2e7e4086b0b06263ec536adf33",
-                "reference": "da9a6acd24229b2e7e4086b0b06263ec536adf33",
+                "url": "https://api.github.com/repos/SahilDude89ss/PyntaxFramework-Config/zipball/1dfac09d4682ab49317922d16a030b61c0ab71d7",
+                "reference": "1dfac09d4682ab49317922d16a030b61c0ab71d7",
                 "shasum": ""
             },
             "type": "library",
@@ -38,7 +38,7 @@
                 }
             ],
             "description": "Config component of the Pyntax Framework",
-            "time": "2015-10-13 23:28:24"
+            "time": "2015-10-16 02:21:53"
         },
         {
             "name": "zendframework/zend-cache",
