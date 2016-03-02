@@ -3,7 +3,7 @@
     "description": "Cache component of the Pyntax Framework",
     "require": {
         "zendframework/zend-cache": "^2.5",
-        "pyntax/config": "dev-master"
+        "pyntax/config": "^1.0"
     },
     "autoload": {
         "psr-4": {
